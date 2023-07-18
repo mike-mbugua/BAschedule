@@ -1,0 +1,2 @@
+class DriveRun < ApplicationRecord
+end

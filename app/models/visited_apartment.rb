@@ -1,0 +1,2 @@
+class VisitedApartment < ApplicationRecord
+end
